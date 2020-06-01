@@ -1,0 +1,42 @@
+{
+  "browser": {
+    "name": "Chrome for Android",
+    "version": "81.0.4044.117"
+  },
+  "cookies": true,
+  "flash": {
+    "version": null
+  },
+  "ip": null,
+  "java": {
+    "version": null
+  },
+  "os": {
+    "name": "Android",
+    "version": "8.1.0"
+  },
+  "screen": {
+    "colors": 24,
+    "dppx": 2,
+    "height": 720,
+    "width": 360
+  },
+  "scripts": true,
+  "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; 5060D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+  "viewport": {
+    "height": 314,
+    "layout": {
+      "height": 314,
+      "width": 360
+    },
+    "width": 360,
+    "zoom": 1
+  },
+  "websockets": true,
+  "lang": [
+    "cs-CZ",
+    "cs"
+  ],
+  "timestamp": "Mon Jun 01 2020 01:01:33 GMT+0200 (Středoevropský letní čas)",
+  "jazykPortaluObcana": "cs"
+}
